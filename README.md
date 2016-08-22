@@ -14,4 +14,23 @@ Some Inportant Usefull resources
 
 5) http://openjdk.java.net/groups/security/
 
-6) http://www.oracle.com/technetwork/java/seccodeguide-139067.html#7
+6) https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html#//apple_ref/doc/uid/TP40002477-SW1
+
+7)http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.pdf
+
+8) http://www.oracle.com/technetwork/java/seccodeguide-139067.html
+
+      Topic :- 
+      
+Introduction
+[+] 0 Fundamentals
+[+] 1 Denial of Service
+[+] 2 Confidential Information
+[+] 3 Injection and Inclusion
+[+] 4 Accessibility and Extensibility
+[+] 5 Input Validation
+[+] 6 Mutability
+[+] 7 Object Construction
+[+] 8 Serialization and Deserialization
+[+] 9 Access Control
+ 
